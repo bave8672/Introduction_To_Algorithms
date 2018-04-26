@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "dist",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "preserveConstEnums": true,
+        "target": "es5",
+        "lib": ["es5", "es2015", "esnext", "scripthost"],
+        "typeRoots": ["node_modules/@types"],
+        "removeComments": true,
+    },
+    "exclude": [
+        "**/*.spec.ts"
+    ]
+}

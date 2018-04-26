@@ -1,0 +1,9 @@
+coverage/
+node_modules/
+typings/
+npm-debug.log
+.test/
+.DS_Store
+.coveralls.yml
+html-report/
+dist/**
