@@ -4,11 +4,11 @@
   "author": "Ben Aves <avesbanjamin@gmail.com>",
   "license": "MIT",
   "scripts": {
-        "start": "npm run test -- --watch",
-        "build": "tsc",
-        "test": "jest --forceExit --coverage --verbose",
-        "lint": "tslint -p .",
-        "format": "prettier --write \"*.{ts,js,json,prettierrc}\" \"src/**/*.{ts,js,json}\""
+    "start": "npm run test -- --watch",
+    "build": "tsc",
+    "test": "jest --forceExit --coverage --verbose",
+    "lint": "tslint -p .",
+    "format": "prettier --write \"*.{ts,js,json,prettierrc}\" \"src/**/*.{ts,js,json}\""
   },
   "devDependencies": {
     "@types/jest": "^22.2.2",

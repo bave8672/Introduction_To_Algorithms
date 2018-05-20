@@ -7,3 +7,4 @@ npm-debug.log
 .coveralls.yml
 html-report/
 dist/**
+src/1_Foundations/1_The_Role_of_Algorithms_in_Computing/\.ipynb_checkpoints/
